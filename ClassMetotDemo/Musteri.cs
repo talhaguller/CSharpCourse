@@ -13,7 +13,7 @@ namespace ClassMetotDemo
 
         public string Ad { get; set; }
 
-        public string Soyad { get; set; }
+        public string Soyad { get; set; }  
 
         public string Tc { get; set; }
 
