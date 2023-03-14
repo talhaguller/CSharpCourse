@@ -15,7 +15,7 @@ namespace ClassMetotDemo
 
         public string Soyad { get; set; }
 
-        public string Tc { get; set; } 
+        public string Tc { get; set; }
 
     }
 }
