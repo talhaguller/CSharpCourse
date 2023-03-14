@@ -13,7 +13,7 @@ namespace ClassMetotDemo
             Console.WriteLine("Müşteri Eklendi "+musteri.Ad+" "+musteri.Soyad);
         }
 
-        public void MusteriSil(Musteri musteri)
+        public void MusteriSil(Musteri musteri)  
         {
             Console.WriteLine(musteri.Ad+" "+musteri.Soyad+" Müşteri Silinmiştir");
         }
